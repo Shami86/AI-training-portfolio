@@ -1,0 +1,40 @@
+# Use Case — Research Laboratory (Scientific Documents)
+
+## Context
+A research laboratory working on algae requested a solution to manage large volumes of data:
+- PDFs
+- tables
+- graphs
+- scientific text
+
+---
+
+## Challenges
+- Heterogeneous document formats
+- Large data volumes
+- Complex domain-specific vocabulary
+
+---
+
+## Proposed solution
+- Document ingestion (OCR + parsing)
+- Text chunking and embedding
+- Vector database indexing
+- Semantic search over research data
+- AI agent for querying and summarization
+
+---
+
+## Technologies involved
+- HuggingFace models
+- GPU-based inference (NVIDIA)
+- Vector databases
+- LLMs (Gemini / open-source)
+- Agent-based architecture
+
+---
+
+## Value
+- Faster access to research insights
+- Reduced manual document review
+- Knowledge centralized and searchable

@@ -1,0 +1,32 @@
+# Experiments — vLLM & Local LLM Serving
+
+## Objective
+Explore how to serve large language models locally without relying on external APIs.
+
+---
+
+## What is vLLM?
+vLLM is a high-performance LLM inference engine designed for:
+- low latency
+- high throughput
+- GPU-based serving
+
+---
+
+## Experiment
+- Deployment using Docker Compose
+- GPU-based inference (NVIDIA)
+- Understanding model serving architecture
+
+---
+
+## Key learnings
+- Difference between training and inference
+- LLM serving constraints
+- Cost and performance considerations
+- Alternative to cloud-based APIs
+
+---
+
+## Takeaway
+Running LLMs locally is feasible but requires careful infrastructure planning.

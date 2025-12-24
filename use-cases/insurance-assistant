@@ -1,0 +1,40 @@
+# Use Case — Insurance Call Assistant
+
+## Context
+An insurance company wanted to assist advisors during live client calls.
+
+---
+
+## Objectives
+- Transcribe live audio conversations
+- Identify speakers (advisor vs client)
+- Understand customer intent
+- Suggest relevant responses in real time
+
+---
+
+## Technical pipeline
+
+Audio  
+→ Speech-to-Text  
+→ Speaker identification  
+→ NLP analysis  
+→ LLM reasoning  
+→ Advisor assistance
+
+---
+
+## Technologies involved
+- Speech-to-text engines
+- NLP & embeddings
+- LLMs
+- HuggingFace models
+- GPU acceleration
+- Agent-based orchestration
+
+---
+
+## Value
+- Improved advisor efficiency
+- Better customer experience
+- Consistent and compliant responses
